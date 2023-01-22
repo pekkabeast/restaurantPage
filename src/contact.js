@@ -1,0 +1,3 @@
+const generateContactContent = () => {};
+
+export { generateContactContent };
